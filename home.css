@@ -8,8 +8,6 @@
   text-align: center;
   padding-top: 25px;
   padding-bottom: 25px;
-
-
 }
 
 .PageTitles {
@@ -67,12 +65,7 @@ h1 {
 .PhotoDisplay {
   text-align: center;
   padding: 25px;
-
 }
-
-/** {
-  outline: 1px dotted blue;
-}*/
 
 a {
   color: black;
@@ -87,6 +80,9 @@ a:hover {
 /* selected link */
 a:active {
     color: black;
-
-    /**/Make it so that when you're on a page, the link is different color
 }
+
+
+/** {
+  outline: 1px dotted blue;
+}*/
