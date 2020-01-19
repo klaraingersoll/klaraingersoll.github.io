@@ -1,88 +1,45 @@
-* {
-  font-family: 'Poppins', sans-serif;
-}
+<!DOCTYPE html>
 
-#KlaraIngersoll {
-  color: rgb(0,0,0);
-  font-size: 3em;
-  text-align: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
-}
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="home.css">
+</head>
 
-.PageTitles {
-  color: rgb(0,0,0);
-  font-weight: 400;
-  font-size: 1.75em;
-  text-align: center;
-  padding-bottom: 2%;
-}
+<body>
 
-h1 {
-  font-weight: 100;
-  font-size: 1em;
-}
+<!-- BODY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-.HeaderText {
-  color: rgb(0,0,0);
-  font-weight: 150;
-  font-size: 1em;
-}
+<div id="KlaraIngersoll" width=100%><a href="index.html">Klara Ingersoll</a></div>
 
-#SelectedPage {
-  color: rgb(238,192,69);
-}
+<table width=100% id="MenuBar">
+  <tr>
+    <td class="PageTitles" width=25%><a id="SelectedPage" href="index.html"> Campaigns </td>
+    <td class="PageTitles" width=25%><a href="positions.html"> Journalism </td>
+    <td class="PageTitles" width=25%><a href="positions.html"> Art </td>
+    <td class="PageTitles" width=25%><a href="education.html"> About </td>
+  </tr>
+</table>
 
-#VisualArtMenu {
-  width: 100%;
-  border: 0px;
-  padding: 30px;
-}
+<table width=100% id="VisualArtMenu">
+  <tr>
+      <td class="PageTitles" width=25%><a href="exposition.html"><img src="./Images/ClimaxThumbnail.jpg"> Sportslife </td></a> 
+    <td><a href="climax.html"><img src="./Images/ClimaxThumbnail.jpg"></img></a></td>
+    <td><a href="denouement.html"><img src="./Images/DenouementThumbnail.jpg"></img></a></td>
+  </tr>
+  <tr>
+    <td><a href="idols.html"><img src="./Images/IdolsThumbnail2.jpg"></img></a></td>
+    <td><a href="okaymag.html"><img src="./Images/OkayMagThumbnail.jpg"></img></a></td>
+    <td><a href="hotsanddance.html"><img src="./Images/HotSandDanceThumbnail.jpg"></img></a></td>
+  </tr>
+  <tr>
+    <td><a href="voicesforcivilrights.html"><img src="./Images/CivilRightsThumbnail.jpg"></img></a></td>
+    <td><a href="fungi.html"><img src="./Images/graphicart/FungiThumbnail.jpg"></img></a></td>
+    <td><a href="stateoftheocean.html"><img src="./Images/graphicart/StateoftheOceanThumbnail.jpg"></img></a></td>
+  </tr>
+</table>
 
-#VisualArtMenu tr td img {
-  width: 100%;
-  max-width: 100%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+<!-- BODY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-#VisualArtMenu tr td {
-  padding: 30px;
-}
-
-#MenuBar {
-  border-bottom: 1px solid black;
-  padding: 0px;
-  padding-bottom: 10px;
-
-}
-
-#MenuBar tr td {
-  padding: 0px;
-}
-
-.PhotoDisplay {
-  text-align: center;
-  padding: 25px;
-}
-
-a {
-  color: black;
-  text-decoration: none; /* no underline */
-}
-
-/* mouse over link */
-a:hover {
-  color: rgb(238,192,69);
-}
-
-/* selected link */
-a:active {
-    color: black;
-}
-
-
-/** {
-  outline: 1px dotted blue;
-}*/
+</body>
+</html>
