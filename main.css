@@ -1,39 +1,4 @@
 <!DOCTYPE html>
-
 <html>
-<head>
-  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="main.css">
-</head>
 
-<body>
-
-<!-- BODY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-<div id="KlaraIngersoll" width=100%><a href="index.html">Klara Ingersoll</a></div>
-
-<table width=100% id="MenuBar">
-  <tr>
-    <td class="PageTitles" width=25%><a id="SelectedPage" href="index.html"> Campaigns </td>
-    <td class="PageTitles" width=25%><a href="positions.html"> Journalism </td>
-    <td class="PageTitles" width=25%><a href="positions.html"> Art </td>
-    <td class="PageTitles" width=25%><a href="education.html"> About </td>
-  </tr>
-</table>
-
-<table width=100% id="PageTitles">
-  <tr>
-    <td><td class="PageTitles" width=25%><a href="sportslife.html"> Sportslife– for Creative Sports Cultures</a></td>
-    <td><td class="PageTitles" width=25%><a href="brightfuture.html"> Setting the Clean Energy Narrative Straight With A Bright Future Book</a></td>
-    <td><td class="PageTitles" width=25%><a href="link.html"> LINK Arts x Action– Visioning & Visualizing the Student Movement </a></td>
-  </tr>
-  <tr>
-    <td><td><td class="PageTitles" width=25%><a href="dresscode.html"> Addressing the Dress Code in Cambridge Public Schools</a></td>
-    <td><td><td class="PageTitles" width=25%><a href="sexualviolence.html"> Improving Cambridge Public Schools Sexual Violence Response</a></td>
-  </tr>
-</table>
-
-<!-- BODY ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-
-</body>
-</html>
+<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
